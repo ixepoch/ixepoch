@@ -3,7 +3,6 @@
 - I’m currently learning : Algorithm
 - I’m looking to collaborate on : Study
 - How to reach me : 
-  - Threads: [@ixepoch](https://www.threads.net/@ixepoch)
   - Mail: ixepoch@outlook.com
 
 <!---
