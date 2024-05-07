@@ -1,7 +1,4 @@
 - Hi, I’m @ixepoch
-- I’m interested in : Deep Learning
-- I’m currently learning : Algorithm
-- I’m looking to collaborate on : Study
 - How to reach me : 
   - Mail: ixepoch@outlook.com
 
